@@ -24,3 +24,11 @@ Gravação da apresentação: [**YouTube**](https://www.youtube.com/watch?v=E-QW
 Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**, ao **Murilo Beltrame** e demais organizadores por todo o apoio para que eu partipasse como palestrante, mesmo que online, de mais um evento promovido pela comunidade **DEVPIRA**.
 
 ---
+
+![Público 1](img/sk-02.jpg)
+
+![Público 2](img/sk-03.jpg)
+
+![Público 3](img/sk-03.jpg)
+
+![Banner da palestra](img/banner.jpg)
