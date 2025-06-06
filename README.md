@@ -15,6 +15,10 @@ Evento: **Global Azure 2025**
 
 Número de participantes: **28 pessoas**
 
+Link de divulgação: [**Instagram**](https://www.instagram.com/p/DJbwODvuw3b/)
+
+Local: **Inova ACIPI - Rua Prudente de Moraes, 463 - Centro - Piracicaba-SP - CEP: 13400-310**
+
 Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**, ao **Murilo Beltrame** e demais organizadores por todo o apoio para que eu partipasse como palestrante de mais um evento promovido pela comunidade **DEVPIRA**.
 
 ---
