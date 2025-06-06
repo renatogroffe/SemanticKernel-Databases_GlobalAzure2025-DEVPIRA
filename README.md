@@ -21,6 +21,6 @@ Local: **Fundação Municipal de Ensino de Piracicaba - FUMEP - Avenida Monsenho
 
 Gravação da apresentação: [**YouTube**](https://www.youtube.com/watch?v=E-QWOA0vS0Y)
 
-Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**, ao **Murilo Beltrame** e demais organizadores por todo o apoio para que eu partipasse como palestrante de mais um evento promovido pela comunidade **DEVPIRA**.
+Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**, ao **Murilo Beltrame** e demais organizadores por todo o apoio para que eu partipasse como palestrante, mesmo que online, de mais um evento promovido pela comunidade **DEVPIRA**.
 
 ---
