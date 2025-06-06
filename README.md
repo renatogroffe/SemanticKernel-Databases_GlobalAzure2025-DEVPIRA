@@ -5,6 +5,8 @@ Exemplo apresentado: https://github.com/renatogroffe/dotnet9-semantickernel-post
 
 ---
 
+## Informações sobre o evento
+
 Título da apresentação: **Utilizando seus Dados em Bases Relacionais com IAs Generativas - Um exemplo prático e rápido com Semantic Kernel!**
 
 Data: **10/05/2025 (sábado)**
