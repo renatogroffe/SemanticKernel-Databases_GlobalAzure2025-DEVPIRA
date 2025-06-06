@@ -17,7 +17,9 @@ Número de participantes: **28 pessoas**
 
 Link de divulgação: [**Instagram**](https://www.instagram.com/p/DJbwODvuw3b/)
 
-Local: **Inova ACIPI - Rua Prudente de Moraes, 463 - Centro - Piracicaba-SP - CEP: 13400-310**
+Local: **Fundação Municipal de Ensino de Piracicaba - FUMEP - Avenida Monsenhor Martinho Salgot, 560 - Areião - Piracicaba - SP - CEP: 13414-040**
+
+Gravação da apresentação: [**YouTube**](https://www.youtube.com/watch?v=E-QWOA0vS0Y)
 
 Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**, ao **Murilo Beltrame** e demais organizadores por todo o apoio para que eu partipasse como palestrante de mais um evento promovido pela comunidade **DEVPIRA**.
 
