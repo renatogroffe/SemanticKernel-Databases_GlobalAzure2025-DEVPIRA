@@ -32,3 +32,5 @@ Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**
 ![Público 3](img/sk-03.jpg)
 
 ![Banner da palestra](img/banner.jpg)
+
+![Divulgação - Instagram](img/divulgacao.png)
