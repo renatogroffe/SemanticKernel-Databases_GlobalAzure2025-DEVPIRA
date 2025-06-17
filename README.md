@@ -27,6 +27,8 @@ Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**
 
 ---
 
+![Transmissão online](img/online.png)
+
 ![Público 1](img/sk-02.jpg)
 
 ![Público 2](img/sk-03.jpg)
